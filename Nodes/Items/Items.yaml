@@ -31,3 +31,4 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 110.0
+- File: NewFolder/NewFolder.yaml
